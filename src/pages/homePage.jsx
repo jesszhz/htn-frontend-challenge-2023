@@ -1,6 +1,4 @@
 import { useEffect, useState } from 'react';
-import { gql, GraphQLClient } from 'graphql-request';
-import { endpoint } from '../shared/utils';
 import Navbar from '../components/navbar';
 import EventGallery from '../components/eventGallery';
 import { useSelector } from 'react-redux';
@@ -22,6 +20,7 @@ export default function HomePage() {
       }
       setEventData(filteredEvents);
     } catch (err) {
+      console.log(err);
       setEventData(null);
     } finally {
       setLoading(false);

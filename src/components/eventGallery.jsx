@@ -1,5 +1,3 @@
-// import EventCard from './eventCard';
-import { useEffect } from 'react';
 import EventCard from './eventCard';
 
 export default function EventGallery(props) {
