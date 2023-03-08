@@ -5,7 +5,7 @@ import Label from '../components/label';
 import { Link } from 'react-router-dom';
 import externalLinkIcon from '../assets/externalLinkIcon.png';
 import Speaker from '../components/speaker';
-import headshot from '../assets/dummyHeadshot.jpeg';
+import headshot from '../assets/dummy.jpeg';
 import { DateTime } from 'luxon';
 import { gqlClient, fetchEventData } from '../shared/dataUtils';
 import RelatedEventCard from '../components/relatedEventCard';
