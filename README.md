@@ -6,9 +6,7 @@ My just-for-fun submission to Hack the North's frontend developer challenge
 
 ## View the deployed site
 
-You may need to first install this Chrome extension: [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en). Click on the extension, then toggle it ON to allow Cross Origin Resource Sharing (or else the app will crash)
-
-Link to deployed site: https://htn-frontend-challenge-2023-git-main-jesszhz.vercel.app/
+https://illustrious-selkie-5fabe2.netlify.app/
 
 
 ## Getting started
