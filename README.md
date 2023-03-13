@@ -8,6 +8,10 @@ My just-for-fun submission to Hack the North's frontend developer challenge
 
 https://illustrious-selkie-5fabe2.netlify.app/
 
+Dummy login credentials
+- Email: `hello@test.com`
+- Password: `123`
+
 
 ## Getting started
 ```
